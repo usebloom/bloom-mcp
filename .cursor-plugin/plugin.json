@@ -1,0 +1,21 @@
+{
+  "name": "bloom",
+  "version": "1.0.0",
+  "description": "Connect Cursor to Bloom coaching: goals, actions, vision, check-ins, DISC, and Relatability.",
+  "author": {
+    "name": "Bloom",
+    "email": "support@usebloom.com"
+  },
+  "homepage": "https://www.usebloom.com",
+  "repository": "https://github.com/usebloom/bloom-mcp",
+  "license": "MIT",
+  "keywords": [
+    "bloom",
+    "coaching",
+    "mcp",
+    "goals",
+    "relatability",
+    "disc"
+  ],
+  "logo": "assets/logo.png"
+}

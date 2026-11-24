@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "Bloom": {
+      "url": "https://api.usebloom.com/mcp",
+      "auth": {
+        "CLIENT_ID": "EqYKhTce3nKjkJN8UedoX4D1LK5724T3",
+        "scopes": [
+          "bloom:mcp:read",
+          "bloom:mcp:write",
+          "bloom:mcp:edit"
+        ]
+      }
+    }
+  }
+}
